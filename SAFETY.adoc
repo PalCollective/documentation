@@ -39,14 +39,14 @@ entries.
 (((Big cats,Tigers,Siberian Tiger)))
 Note that multi-entry terms generate separate index entries.
 
-Here are a couple of image examples: an image:tiger.png[]
+Here are a couple of image examples: an image:https://picsum.photos/200[]
 example inline image followed by block images:
 
 .PNG block image
-image::tiger.png[Tiger]
+image::https://picsum.photos/200[Tiger]
 
-.SVG block image
-image::ruby.svg[Ruby gemstone]
+//.SVG block image
+//image::ruby.svg[Ruby gemstone]
 
 //.PNG in SVG block image
 //image::tiger-in-svg.svg[Tiger in SVG,opts=interactive]
