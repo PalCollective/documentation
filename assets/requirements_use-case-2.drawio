@@ -1,0 +1,28 @@
+<mxfile host="Electron" modified="2024-03-12T23:22:18.889Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="MoSFyWNO81GtoP19UNoQ" version="21.2.8" type="device">
+  <diagram name="Page-1" id="am63GMfayBWawsD8iNds">
+    <mxGraphModel dx="954" dy="1767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JIM9vsVt0bwu1zXm3lSm-1" value="ID verified" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="740" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JIM9vsVt0bwu1zXm3lSm-2" value="ID verified" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="540" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JIM9vsVt0bwu1zXm3lSm-3" value="I am building a solar&lt;br&gt;device to allow those&lt;br&gt;in Gaza to desalinate&lt;br&gt;sea water and I need&lt;br&gt;help" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;flipH=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="650" y="10" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="JIM9vsVt0bwu1zXm3lSm-4" value="I would like to help" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="545" y="60" width="95" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AslXYxIev7mdiATADkhJ-1" value="request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textOpacity=50;" parent="1" vertex="1">
+          <mxGeometry x="640" y="-20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AslXYxIev7mdiATADkhJ-2" value="response" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textOpacity=50;" parent="1" vertex="1">
+          <mxGeometry x="570" y="30" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

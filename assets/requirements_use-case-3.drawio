@@ -1,0 +1,61 @@
+<mxfile host="Electron" modified="2024-03-12T23:21:17.782Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="duOxKcfLaFmA2hk6CcLa" version="21.2.8" type="device">
+  <diagram name="Page-1" id="9LBpSAG-1_oR1PY6LPKs">
+    <mxGraphModel dx="954" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n1tU0frZkL9pPi7h6ndO-1" value="I want to donate&lt;br&gt;4000 JD&amp;nbsp;as &quot;Qurab&quot;&lt;br&gt;(Islamic Ritual&lt;br&gt;Sacrifice) in Northern Gaza specifically" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;flipH=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="230" y="340" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="n1tU0frZkL9pPi7h6ndO-2" value="Gaza verified" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="70" y="460" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n1tU0frZkL9pPi7h6ndO-3" value="ID verified" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="340" y="460" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n1tU0frZkL9pPi7h6ndO-4" value="I have cattle in North&lt;br&gt;Gaza" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="50" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n1tU0frZkL9pPi7h6ndO-5" value="Anyone in North&lt;br&gt;Gaza that wants&lt;br&gt;fresh meat?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="354" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n1tU0frZkL9pPi7h6ndO-6" value="Gaza verified" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="540" y="460" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n1tU0frZkL9pPi7h6ndO-7" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="600" y="460" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n1tU0frZkL9pPi7h6ndO-8" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="670" y="460" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n1tU0frZkL9pPi7h6ndO-9" value="Me!" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;flipH=1;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="640" y="400" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="n1tU0frZkL9pPi7h6ndO-10" value="Me!" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;flipH=1;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="570" y="400" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="n1tU0frZkL9pPi7h6ndO-11" value="Me!" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;flipH=1;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="500" y="400" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qLpJnNkqmbo5384NQHVK-1" value="request 2" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;textOpacity=50;" vertex="1" parent="1">
+          <mxGeometry x="414" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qLpJnNkqmbo5384NQHVK-2" value="response 2" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;textOpacity=50;" vertex="1" parent="1">
+          <mxGeometry x="640" y="370" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qLpJnNkqmbo5384NQHVK-3" value="response 2" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;textOpacity=50;" vertex="1" parent="1">
+          <mxGeometry x="570" y="370" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qLpJnNkqmbo5384NQHVK-4" value="response 2" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;textOpacity=50;" vertex="1" parent="1">
+          <mxGeometry x="500" y="370" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qLpJnNkqmbo5384NQHVK-7" value="request 1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;textOpacity=50;" vertex="1" parent="1">
+          <mxGeometry x="230" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qLpJnNkqmbo5384NQHVK-8" value="response 1" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;textOpacity=50;" vertex="1" parent="1">
+          <mxGeometry x="90" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
