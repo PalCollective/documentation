@@ -115,6 +115,6 @@ The outcome of matching might include the parties matched revealing their identi
 
 As long as this reveal is kept confidential and is strictly not recorded by the platform, then it might be possible to create a relatively safe system
 
-It must also be possible for either party to give feedback on the quality of the responses, the requests, and raise suspicion resulting from actions following the reveal of identities on the platform.
+It must also be possible for either party to give feedback on the quality of the responses, the requests, and raise suspicion resulting from actions following the reveal of identities to another user from the platform.
 
 In order to offer maximum safety, it would be wonderful if we can, despite not storing ID verification results, would be able to recognize when the person ID verifying has already been banned from using the platform, for one reason or another, but this might require certain capabilities from the verification partners.
