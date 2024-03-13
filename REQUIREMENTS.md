@@ -108,3 +108,13 @@ Hence it is important to think about the different skills, and the layers of com
 1. Responses from users not `Gaza verified` might have to go through auditing by other, non-`Gaza-verified` users
 2. These content revisions will address issues such as language, values, and domain-specific knowledge related to the request
 3. Upon approval by a certain threshold, affective moderation is achieved and the response is delivered to the `Gaza verified` user's request
+
+### Outcome
+
+The outcome of matching might include the parties matched revealing their identities to one another in a manner consensual and beneficial to both.
+
+As long as this reveal is kept confidential and is strictly not recorded by the platform, then it might be possible to create a relatively safe system
+
+It must also be possible for either party to give feedback on the quality of the responses, the requests, and raise suspicion resulting from actions following the reveal of identities on the platform.
+
+In order to offer maximum safety, it would be wonderful if we can, despite not storing ID verification results, would be able to recognize when the person ID verifying has already been banned from using the platform, for one reason or another, but this might require certain capabilities from the verification partners.
