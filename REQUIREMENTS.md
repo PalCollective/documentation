@@ -80,7 +80,7 @@ This request is meant for users who are `Gaza verified`.
 
 Below is an another example:
 
-![](./assets/requirements_use-case-1.drawio.svg)
+![](./assets/requirements_use-case-2.drawio.svg)
 
 In this example, the request is meant for users who are either `unverified`, or `ID verified`.
 
