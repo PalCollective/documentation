@@ -14,3 +14,5 @@ Where we are right now, we are building out a team of real people. We are buildi
     3. dd
 1. **Not right now** - Want to help, but may not have bandwidth, experience, or comfortability with working on the project right now. 
 1. **Taskers** - Limited bandwidth in terms of what you can work on with all that you have on your plate, but want to help do meaningful work. 5-10 hours/week
+
+Add 1
