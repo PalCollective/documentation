@@ -14,6 +14,49 @@ The requirements, on the other hand, are derived and backed up by _stories_, whi
 
 The purpose of the system is offering _mutual aid_, which is intuitively understood as offering and receiving solidarity, not only between those who are directly affected and those indirectly affected by the war in Gaza, but also _amongst_ either one of these two groups (e.g. solidarity between people outside of Gaza, as well as solidarity amongst Gazans). 
 
+## Phases of Big Picture Development:
+### Phase 1: 
+Visualizing what aid/GoFundMes exist for those in Gaza AND giving a way for a person in Gaza to request funds/start a vetting process. (Ideally partnering with Olive Branch Collective). 
+- Gaza: Submit your request for aid, requesting funds. Someone starts a connection with you. Humanity Phase 1. You are reached out to by a Pal. Limit requesting of 1 item 
+- Pal: Iniitiate beta test invitations from Olive Branch list. Establish trust, relationship while also interviewing/vetting.
+- Volunteer: View the stories (humanizing the struggle). No money mentioned. 
+- Connection:
+    - Gaza <-> Pal
+    - Gaza Volunteer NO
+    - Pal Volunteer NO
+
+    **Simply put:** Storyboard for Gaza. Reddit/Instagram of Stories from Gaza just for consumption.
+
+Call to Action: 
+1. Gazan - Request to be featured.
+1. Pal - Reach out to OOB to bring in beta testers, verify, and interview them, establish trust.
+2. Volunteer - Become a pal or like/share the content.
+
+### Phase 2: 
+Start to connect the pieces of people from Gaza and those on the outside.
+1. Gaza: Request help both funds and non-monetary value.
+1. Moderator: Vet requests from both Gazans and Volunteers.(Potentially writes and collects forms of comments into a letter to the Gazan)
+1. Volunteers: Onboard to YPC, start to see the requests/visualize what is going on. Maybe a way to comment.
+Connection:
+- Gaza <-> Pal
+- Gaza <-> Gaza
+- Gaza Volunteer NO
+- Pal <- > Volunteer 
+ 	**Simply put:** Mobilize and activate a community to share feedback, open lines of communication.
+
+And the commenting in phase 2 is about them wanting to volunteer to help it could be like help and offer your services. You can have options to click on or there could even be a custom option. That way it would almost be like liking/sharing but its more than that its saying I want to help YOU
+
+###Phase 3:
+Start communication between people in Gaza and those on the outside. 
+Gaza: Request help, see help board from people within Gaza.
+Moderator: Vet requests coming in from Gazans. Vet volunteers. Vet/read through comments.
+Volunteer: See requests from Gaza, comment, donate to directly to GoFundMe, pick up ‘tickets’ for non-monetary tasks.
+Connection: Gaza <-> Moderator; Gaza <-> Gaza; Gaza <-> Volunteer; Moderator <- > Volunteer 
+  	*Simply put:* Peer to peer matching platform for solidarity and targeted assistance
+Feedback: Jo is currently thinking through this process and how we can with certain skillsets, parameters can we create an onboarding system so that a volunteer can become a Pal. Diffeent levels, leaderboards, earn points, unlock skillsets, limited word count, limited functionality based on what you do. Need to review and consider the model around peer-to-peer verification process. I'm imaginging almost like an approval board and you have to approve so many comments before you can comment, you can only do so many things in one day. This would limit trolls. 
+
+
+
 ## Stories
 
 - As someone in Gaza, I want to know that using the app will not lead to me being targeted.
@@ -32,6 +75,13 @@ The purpose of the system is offering _mutual aid_, which is intuitively underst
 - As someone who wants to offer solidarity, I do not want to end up offending, or upsetting the people I am trying to support.
 
 ## Users
+
+The tech team has developed a new MVP or first iteration of what we are building. It’s important to define and understand a few terms here. There are different case user stories or customer archetypes that we are building this for, obviously this can be put into many different categories, but right now in the simplest form it is:
+1. End Users:
+    1. Gazans - End Users - People physically in Palestine, people who have escaped Gaza and are still trying to get people out, people who have escaped and are trying to heal
+    1. Volunteers -End Users - General public, well intended people who want to help, but may not have the experience or training to do meaningful work. (Doctors, therapists, friendly people)
+1. Team Users:
+    1. Pals - Infrastructure - Team Users -  In between layer as the most trusted version of what it means to be apart of Your Pal Collective as well as being the face in a lot of ways
 
 ### Identity
 
@@ -118,3 +168,7 @@ As long as this reveal is kept confidential and is strictly not recorded by the 
 It must also be possible for either party to give feedback on the quality of the responses, the requests, and raise suspicion resulting from actions following the reveal of identities to another user from the platform.
 
 In order to offer maximum safety, it would be wonderful if we can, despite not storing ID verification results, would be able to recognize when the person ID verifying has already been banned from using the platform, for one reason or another, but this might require certain capabilities from the verification partners.
+
+
+## Harm Assessment
+In order to not cause harm, we realized the HUGE important of what a pal role will be. And to be fair, what a pal does will depend on the phase of development, however it is very important to get that laid out and start the framework to train and keep our moderators as a line of support between the Gazans and Volunteers. (Pal was previously moderator)
