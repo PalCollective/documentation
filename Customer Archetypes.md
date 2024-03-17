@@ -19,7 +19,7 @@ Start into the storytelling process.
 - Give them the resources from Olive Branch and direct them to our platform to sign up for phase 2. At least give them the link in Phase 1 of what the public page looks like.
 
 
-##The Pal Journey:
+## The Pal Journey:
 - Reach out to every one of the listed GoFundMe campaigns from Your Pal Databases and Olive Branch Collective. 
 - Start to figure out who they are, learn their story, share your personal testament. 
 - Ask similar questions to value propositions for agile development.
@@ -33,8 +33,8 @@ Start into the storytelling process.
 1. Collect data for tech team
 
 
-##The Volunteer/Gen Public:
-**Message:**Start to see the power of stories and the humanity that is in Gaza. They see ‘stories’ or blurbs similar to a social media page and perhaps thats all we start with. Scrapping the data into one place. Start to build out the website that shows those requests as well, but this can start with just the stories. 
+## The Volunteer/Gen Public:
+**Message:** Start to see the power of stories and the humanity that is in Gaza. They see ‘stories’ or blurbs similar to a social media page and perhaps thats all we start with. Scrapping the data into one place. Start to build out the website that shows those requests as well, but this can start with just the stories. 
 You know the struggle that is going on, but do you know anyone there? WOuld you like to? Do you wish you could help but don’t know where to start? That is what we are building. Join the waitlist to join our platform. We can connect you directly to help to be activated instead of just scrolling mindlessly on social media. We also understand that sometimes this is too heavy so we will share both success stories and struggles to where we are going. There will be customized requests that you will be able to receive in the future of being able to provide aid 1:1. We believe in the power of community and essentially crowd sourcing solidarity and aid. We can’t sit back, we are the definition of grassroots. 
 
 The **customer archetype** of the volunteer/new breed of activist:
