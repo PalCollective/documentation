@@ -5,7 +5,7 @@ This repository contains different types of documentation contributed by differe
 
 ## Quick Links
 
-[Visual Board of Org (Figma):](https://www.figma.com/file/FxJXZSY8Xor4i92c6a09wH/PalCollective-overview-diagram?type=whiteboard&node-id=0-1&t=w0xtcaMb4bVqCTeT-0) 
+[Visual Board of Org (Figma)](https://www.figma.com/file/FxJXZSY8Xor4i92c6a09wH/PalCollective-overview-diagram?type=whiteboard&node-id=0-1&t=w0xtcaMb4bVqCTeT-0) 
 
 ## Short Series on GitHub and Markdown  
 [Video 1: Create a repository](https://www.loom.com/share/7c7277cef8d74082931dd7d816452f3f?sid=ffa77fba-f4c7-443b-a3d0-b517f27f50d3)  
