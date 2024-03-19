@@ -6,8 +6,8 @@ This repository contains different types of documentation contributed by differe
 ## Quick Links
 
 [Visual Board of Org (Figma)](https://www.figma.com/file/FxJXZSY8Xor4i92c6a09wH/PalCollective-overview-diagram?type=whiteboard&node-id=0-1&t=w0xtcaMb4bVqCTeT-0) 
-[Ethics and Safety](https://github.com/PalCollective/documentation/blob/main/ETHICS_SAFETY.adoc)  
-[ER Diagram](/blob/main/ER%20DIGRAM.md)   
+[Ethics and Safety](https://github.com/PalCollective/documentation/blob/main/ETHICS_SAFETY.adoc)    
+[ER Diagram](https://github.com/PalCollective/documentation/blob/main/ER%20DIGRAM.md)    
 
 
 ## Mini Directory
