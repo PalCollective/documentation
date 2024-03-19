@@ -106,7 +106,7 @@ Urgent need: Please add your thoughts to the ethical matrix.
 
 == Process Overview
 
-image:media/image2.png[media/image2,width=320,height=630]
+image:assets/process.png[assets/process,width=320,height=630]
 
 == Pre-Core Values Considerations
 
