@@ -9,7 +9,7 @@ This repository contains different types of documentation contributed by differe
 
 ## In This Repo
 
-[Branding](BRANDING.rmd]  
+[Branding](BRANDING.md]  
 [Ethics and Safety](ETHICS_SAFETY.adoc)     
 [ER Diagram](ER%20DIGRAM.md)  
 [Introduction](INTRODUCTION.md)  
