@@ -13,7 +13,7 @@ This repository contains different types of documentation contributed by differe
 
 
 ## Mini Directory
-Have a question? This might help you get started in the right direction. (Discord handle in parentheses.)  _This is not a complete list of the team.__
+Have a question? This might help you get started in the right direction. (Discord handle in parentheses.)  _This is not a complete list of the team._
 
 ### People Team
 **Pal Training** - Janine (janinebensouda)  
