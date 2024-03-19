@@ -25,6 +25,10 @@ Have a question? This might help you find the right person on Discord.
 **Back End** - Elias and Lucas (fresskoma)  
 **Ethics and Safety** - Katie (katiegrillaert)  
 
+## Job Board
+The job board is viewable under the Projects menu, above. Here are a couple quick links.  
+[MVP Human Tasks](https://github.com/orgs/PalCollective/projects/3)  
+[MVP Dev Tasks](https://github.com/orgs/PalCollective/projects/2)
 
 ## Short Series on GitHub and Markdown  
 [Video 1: Create a repository](https://www.loom.com/share/7c7277cef8d74082931dd7d816452f3f?sid=ffa77fba-f4c7-443b-a3d0-b517f27f50d3)  
