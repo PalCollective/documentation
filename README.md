@@ -6,9 +6,16 @@ This repository contains different types of documentation contributed by differe
 ## Quick Links
 
 [Visual Board of Org (Figma)](https://www.figma.com/file/FxJXZSY8Xor4i92c6a09wH/PalCollective-overview-diagram?type=whiteboard&node-id=0-1&t=w0xtcaMb4bVqCTeT-0)   
-[Ethics and Safety](ETHICS_SAFETY.adoc)    
-[ER Diagram](ER%20DIGRAM.md)    
+
+## In This Repo
+
+[Branding](BRANDING.rmd]  
+[Ethics and Safety](ETHICS_SAFETY.adoc)     
+[ER Diagram](ER%20DIGRAM.md)  
+[Introduction](INTRODUCTION.md)  
 [Requirements](REQUIREMENTS.md)  
+[Strategy](STRATEGY.md)  
+[User Stories](USER_STORIES.md)  
 
 
 
