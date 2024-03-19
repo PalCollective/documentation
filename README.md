@@ -12,18 +12,18 @@ This repository contains different types of documentation contributed by differe
 Have a question? This might help you find the right person on Discord. 
 
 ### People Team
-Pal Training - Janine (janinebensouda)
-Admin Organizing Information - Jo (jokfriend) and Farhanah (farhanahali)
-Partner Relationships - Farhanah (farhanahali)
-People Organizer - Farhanah (farhanahali)
-Marketing - Farhanah (farhanahali) and Tyle (nobinarie.)
+**Pal Training** - Janine (janinebensouda)  
+**Admin Organizing Information** - Jo (jokfriend) and Farhanah (farhanahali)  
+**Partner Relationships** - Farhanah (farhanahali)  
+**People Organizer** - Farhanah (farhanahali)  
+**Marketing** - Farhanah (farhanahali) and Tyle (nobinarie.)  
 
 ### Tech Team
-Concept Bottom Up - Orwa (orwa84) and Elias (eliasmeana)
-Concept Top Down - Janine (janinebensouda) and Tyle (nobinarie.) and Jo (jokfriend) 
-Front End - 
-Back End - Elias and Lucas (fresskoma)
-Ethics and Safety - Katie (katiegrillaert)
+**Concept Bottom Up** - Orwa (orwa84) and Elias (eliasmeana)  
+**Concept Top Down** - Janine (janinebensouda) and Tyle (nobinarie.) and Jo (jokfriend)   
+**Front End** -   
+**Back End** - Elias and Lucas (fresskoma)  
+**Ethics and Safety** - Katie (katiegrillaert)  
 
 
 ## Short Series on GitHub and Markdown  
