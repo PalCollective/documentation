@@ -9,6 +9,7 @@
 **Solidarity:** Standing together with the Palestinian community in their pursuit of dignity, justice, and self-determination.  
 
 **Safety:** We prioritize the well-being and security of all individuals, ensuring that our actions and interventions do not cause harm while striving to provide effective aid and support.  
+
 **Adaptability:** Remaining flexible and responsive to the evolving needs and circumstances of the people we serve.  
 
 **Collaboration:** Fostering partnerships, cooperation, and teamwork to maximize our impact and effectiveness.  
