@@ -3,7 +3,7 @@ link:#how-to-use-this-document[[.underline]#How to Use This Document#]
 
 link:#process-overview[[.underline]#Process Overview#]
 
-link:#Foundations[[.underline]FOUNDATIONS.md]
+
 ____
 
 link:#ethical-matrix[[.underline]#Ethical Matrix#]
