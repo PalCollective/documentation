@@ -1,15 +1,18 @@
 # Our Mission
-"To empower the resilient and resourceful people of Gaza by providing aid and facilitating connections. We stand in solidarity with the Palestinian community, believing in their inherent dignity and right to a good life. Through monetary support and connections with resources and materials, we enable individuals and families to care for themselves amidst their catastrophic circumstances. By amplifying their voices and empowering autonomy and resilience, we strive to contribute to the preservation of their rights and dignity."
+"Our mission is to empower the people of Gaza by providing aid and facilitating connections. We stand in solidarity with the Palestinian community, believing in their inherent dignity and right to a good life. Through monetary support and connections with resources and materials, we enable individuals and families to care for themselves amidst their catastrophic circumstances. By amplifying their voices and empowering autonomy and resilience, we strive to contribute to the preservation of their rights and dignity."
 
 # Our Vision
-"We envision a future where the resilient people of Gaza emerge from the devastation of war to rebuild their communities and way of life with strength and dignity. Our commitment extends beyond immediate aid efforts, aiming to provide ongoing support as they heal and reconstruct. We aspire to foster global solidarity and understanding, bridging hearts and minds between Palestinians and their supporters worldwide. Ultimately, our highest achievement is to empower the people of Gaza to thrive independently, putting an end to the need for our intervention."
+"We envision a future where the people of Gaza emerge from the devastation of war to rebuild their communities and way of life with strength and dignity. Our commitment extends beyond immediate aid efforts, aiming to provide ongoing support as they heal and rebuild. We aspire to foster global solidarity and understanding, bridging hearts and minds between Palestinians and their supporters worldwide."
 
 # Our Core Values
 
 **Solidarity:** Standing together with the Palestinian community in their pursuit of dignity, justice, and self-determination.  
+
 **Safety:** We prioritize the well-being and security of all individuals, ensuring that our actions and interventions do not cause harm while striving to provide effective aid and support.  
 **Adaptability:** Remaining flexible and responsive to the evolving needs and circumstances of the people we serve.  
+
 **Collaboration:** Fostering partnerships, cooperation, and teamwork to maximize our impact and effectiveness.  
+
 **Integrity:** Acting with honesty, transparency, and accountability in all our endeavors.  
 
 
