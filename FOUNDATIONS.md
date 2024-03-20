@@ -17,16 +17,16 @@
 
 
 # Our Principles 
-**Diversity and Inclusion**: Decisions are informed by a wide range of voices, perspectives, and experiences, reflecting the diversity of the community and stakeholders. Palestinian input is essential in all decision-making processes, ensuring that decisions are responsive to local needs.    
+**Diversity and Inclusion**: Decisions are informed by a wide range of voices, perspectives, and experiences, reflecting the diversity of the community. Palestinian input is essential in all decision-making processes, ensuring that decisions are responsive to local needs.    
   
- **Cultural Sensitivity**: We approaches community engagement with humility and cultural sensitivity, acknowledging the unique cultural context and experiences of the community in Gaza. Efforts are made to build trust and foster respectful relationships based on mutual understanding and collaboration.
+ **Cultural Sensitivity**: We approach community engagement with humility and cultural sensitivity, acknowledging the unique cultural context and experiences of the community in Gaza. Efforts are made to build trust and foster respectful relationships based on mutual understanding and collaboration.
 
-**Authentic Communication and Collaboration**: We foster honest and truthful conversations, valuing open communication and transparency in all interactions. We prioritize the collective's work over personal ego, approaching challenges with humility and a commitment to ethical conduct. Integrity is upheld through genuine, respectful dialogue, where all voices are valued and decisions are made in the best interest of the community and stakeholders.
+**Authentic Communication and Collaboration**: We foster honest and truthful conversations, valuing open communication and transparency in all interactions. We prioritize the collective's work over personal egos, approaching challenges with humility and a commitment to ethical conduct. Integrity is upheld through genuine, respectful dialogue, where all voices are valued and decisions are made in the best interest of the community.
     
-**Data-Informed Decision Making**: Decisions are informed by comprehensive data collection and analysis, including both qualitative and quantitative measures. Monitoring and evaluation processes are integrated into all stages of the project lifecycle to track progress, identify trends, and inform decision-making.
+**Data-Informed Decision-Making**: Decisions are informed by comprehensive data collection and analysis, including both qualitative and quantitative measures. Monitoring and evaluation processes are integrated into all stages of the project lifecycle to track progress, identify trends, and inform decision-making.
     
 **Risk Management and Mitigation**: A dedicated risk management framework is in place to identify, assess, and mitigate potential risks throughout the project lifecycle. Proactive risk monitoring and escalation procedures enable timely response and mitigation strategies to minimize the impact of unforeseen challenges.
 
-**Empathetic Resilience and Collective Care**: Cultivating a culture of empathy and resilience that prioritizes the well-being of all individuals involved, including staff and volunteers, while recognizing the urgent needs of Palestinians. Each person's contributions are deeply valued. Recognizing that we all have areas for growth and improvement, we approach shortcomings with empathy and compassion, working collectively to address challenges and foster resilience as a cohesive team.
+**Empathetic Resilience and Collective Care**: Cultivating a culture of empathy and resilience that prioritizes the well-being of all individuals involved, while recognizing the urgent needs of Palestinians. All members of the staff and network are volunteers. Each person's contributions are deeply valued. Recognizing that we all have areas for growth and improvement, we approach shortcomings with empathy and compassion, working collectively to address challenges and foster resilience as a cohesive team.
  
 
