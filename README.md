@@ -10,7 +10,8 @@ This repository contains different types of documentation contributed by differe
 ## Core Repo Files
 [Branding](BRANDING.md)  
 [Ethics and Safety](ETHICS_SAFETY.adoc)     
-[ER Diagram](ER%20DIGRAM.md)  
+[ER Diagram](ER%20DIGRAM.md)
+[Foundations](FOUNDATIONS.md) - Our mission, vision, core values, and principles.  
 [Introduction](INTRODUCTION.md)  
 [Requirements](REQUIREMENTS.md)  
 [Strategy](STRATEGY.md)  
