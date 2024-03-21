@@ -15,10 +15,12 @@
 
 
 ## Risk and Incident Reporting
-Everyone on staff is authorized to report
+Everyone on staff is authorized to report. 
 
 . [Risk Identification Reporting](https://github.com/orgs/PalCollective/projects/4) 
 . [Incident Reporting]() 
+
+Please read **[Risk Indentification for Staff](https://github.com/PalCollective/documentation/blob/main/ES_Risk_Identification.md).**   
 
 ## Process Overview
 image:assets/es_process.png[assets/es_process,width=320,height=630]
