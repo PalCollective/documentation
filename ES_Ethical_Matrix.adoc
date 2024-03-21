@@ -1,8 +1,10 @@
 == Ethical Matrix
-The *ethical matrix* helps to identify potential harms. The matrix
-identifies *stakeholders* that interact with or are affected by the app,
-and *ethical values* that may be infringed upon due to their use of, or
-the existence of, the app. Ethical values have been chosen based on our 
+The *ethical matrix* is a critical tool for evaluating ethical tension. 
+It helps to identify potential harms based on our values. The matrix
+identifies *stakeholders* that interact with or are affected by an intervention,
+and *ethical values* that may be infringed upon due to an intervention. 
+
+Ethical values should be chosen based on our 
 values and principles. They may be updated as needed.
 
 Each cell in the matrix is filled with *potential harms* to
@@ -12,11 +14,11 @@ discussion and as the app continues to develop. It is acceptable for
 some cells to be left blank.
 
 *Potential harms* listed are those that would occur because of
-interaction with the app, not including those that are happening at
+an intervention, not including those that are happening at
 baseline. For example, Palestinians are of course already experiencing
 many negative mental and physical effects due to being victims of war.
-It is not listed here because that is not a potential harm of engaging
-with the app.
+It is not listed in the high level matrix below because that is not a potential harm of engaging
+with PalCollective.
 
 Potential harms will be of *differing priority*. Some may need many
 resources and frequent re-assessment, others may be completely
@@ -42,7 +44,11 @@ However, the government will prioritize their own need, so this exercise
 can help us think about some ways in which governments might feel their interests are 
 infringed upon and move to block the app.
 
-=== High Level Matrix
+Below is a high level matrix used to evaluate the intervention of PalCollective. This 
+matrix can also be used as a framework for more specific tensions that may arise 
+during risk mitigation, for example. 
+
+=== High Level Matrix 
 
 [width="100%",cols="20%,20%,20%,20%,20%",options="header",]
 |===
