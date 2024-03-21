@@ -1,13 +1,3 @@
-[IMPORTANT]
-====
-Report a risk or incident. 
-====
-[WARNING]
-====
-[icon="fa-exclamation-triangle"]
-.Warning
-====
-
 # Introduction - Ethics and Safety
 
 ## The role of the ethics and safety team is to prioritize the well-being and safety of Palestinians and Pals, while also ensuring that our actions are in alignment with the core values and principles of PalCollective.    
@@ -38,9 +28,16 @@ image:assets/es_process.png[assets/es_process,width=320,height=630]
 
 
 ## Process Partners
-Individual contributors: any and every staff member is an important partner for identifying and managing risk.   
-People and Tech team leads: we collaborate closely with team leads to ensure that ethical principles are respected and risks are managed throughout the lifecycle of our app. 
+Individual contributors: any and every staff member is an important partner for identifying and managing risk.  We also collaborate closely with team leads to ensure that ethical principles are respected and risks are managed throughout the lifecycle of our app. 
 
+[cols="3,3,4",options="header"]
+|===
+|=== Dept |=== Person |=== Discord Handle
+
+| Tech | Orwa | orwa84
+| People | Janine | janine
+| Ethics and Safety | Katie | katiegrillaert
+|===
 
 
 __This document is under construction. Expect it to get a little shinier each time you check back!__
