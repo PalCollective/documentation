@@ -24,7 +24,18 @@ Everyone on staff is authorized to report
 image:assets/es_process.png[assets/es_process,width=320,height=630]
 
 
+## Partners
+Individual contributors: any and every staff member is an important partner for identifying and managing risk.   
+People and Tech team leads: we collaborate closely with team leads to ensure that ethical principles are respected and risks are managed throughout the lifecycle of our app. 
+
+
+
 __This document is under construction. Expect it to get a little shinier each time you check back!__
+
+
+
+
+
 
 
 # Table of Contents
