@@ -2,7 +2,10 @@
 The *ethical matrix* helps to identify potential harms. The matrix
 identifies *stakeholders* that interact with or are affected by the app,
 and *ethical values* that may be infringed upon due to their use of, or
-the existence of, the app. Each cell is filled with *potential harms* to
+the existence of, the app. Ethical values have been chosen based on our 
+values and principles. They may be updated as needed.
+
+Each cell in the matrix is filled with *potential harms* to
 the stakeholder based on the values that we have prioritized.
 Stakeholders and values may be added as more voices are involved in the
 discussion and as the app continues to develop. It is acceptable for
