@@ -14,7 +14,8 @@
 **Transparency and Accountability:** We are commited to transparency and accountability. 
 
 ## Reporting
-Report a risk: Risks can and should be reported by any staff member here: [Risk Identification Reporting](https://github.com/orgs/PalCollective/projects/4)  
+Report a risk: Risks can and should be reported by any staff member here: [Risk Identification Reporting](https://github.com/orgs/PalCollective/projects/4)   
+
 Report an incident:   
 
 __This document is under construction. Expect it to get a little shinier each time you check back!__
