@@ -13,13 +13,19 @@
 
 **Transparency and Accountability:** We are commited to transparency and accountability. 
 
+ES_Risk_Identification.md[Read about our Mission, Vision, Core Values, and Guiding Principles here.]   
+
 
 ## Risk and Incident Reporting
-Everyone on staff is authorized  and encouraged to report.  
+Everyone on staff is authorized and encouraged to report.  
 
 https://github.com/PalCollective/documentation/blob/main/ES_Risk_Identification.md[Risk Indentification for Staff]
 
+https://github.com/PalCollective/documentation/blob/main/ES_Risk_Incident_Pals.md[Risk Identification and Incident Reporting for Pals]  
+
 https://github.com/orgs/PalCollective/projects/4[Risk Identification Reporting]  
+
+
 
 
 
