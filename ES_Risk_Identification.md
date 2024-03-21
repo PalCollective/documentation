@@ -9,7 +9,7 @@
 ![Three Lines of Defense Model](https://www.logicmanager.com/wp-content/uploads/2023/10/3lod-infographic.png)
 
 ## What are sources of risk?
-[Sources of Risk](assets/sources_of_risk.png)
+assets/sources_of_risk.png
 
 ## How do I report a risk?
 If you identify a risk, please go to our [GitHub and add it to the Triage column of the Risk Identification project.](https://github.com/orgs/PalCollective/projects/4)
