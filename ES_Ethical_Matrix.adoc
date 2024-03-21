@@ -45,7 +45,8 @@ matrix can also be used as a framework for more specific tensions that may arise
 during risk mitigation, for example. 
 
 === High Level PalCollective Matrix 
-__This matrix was constructed 9-Mar-2024 and may no longer be up to date.__
+__This matrix was constructed 9-Mar-2024 and may no longer be up to date as the collective
+has undergone substantial changes in that time.__
 
 [width="100%",cols="20%,20%,20%,20%,20%",options="header",]
 |===
@@ -116,7 +117,7 @@ However, the government will prioritize their own need, so this exercise
 can help us think about some ways in which governments might feel their interests are 
 infringed upon and move to block the app.
 
-Input Log:
+*Input Log:*
 
 [.mark]#Please log the names/roles/expertise of anyone who has
 contributed to the ethical matrix. Notes: civilian is an expertise.
