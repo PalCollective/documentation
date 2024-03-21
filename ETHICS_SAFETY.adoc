@@ -32,8 +32,7 @@ Individual contributors: any and every staff member is an important partner for 
 
 [cols="3,3,4",options="header"]
 |===
-|=== Dept |=== Person |=== Discord Handle
-
+|Dept |Person |Discord Handle
 | Tech | Orwa | orwa84
 | People | Janine | janine
 | Ethics and Safety | Katie | katiegrillaert
