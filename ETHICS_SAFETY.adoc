@@ -2,6 +2,11 @@
 ====
 Report a risk or incident. 
 ====
+[WARNING]
+====
+[icon="fa-exclamation-triangle"]
+.Warning
+====
 
 # Introduction - Ethics and Safety
 
