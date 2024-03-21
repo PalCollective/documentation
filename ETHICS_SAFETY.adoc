@@ -21,6 +21,8 @@
 . [Incident Reporting]() 
 ====
 
+WARNING: Wolpertingers are known to nest in server racks.
+Enter at your own risk.
 
 
 __This document is under construction. Expect it to get a little shinier each time you check back!__
