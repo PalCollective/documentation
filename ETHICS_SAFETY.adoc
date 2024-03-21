@@ -1,3 +1,6 @@
+= Document Title
+:icons: font
+
 # Introduction - Ethics and Safety
 
 ## The role of the ethics and safety team is to prioritize the well-being and safety of Palestinians and Pals, while also ensuring that our actions are in alignment with the core values and principles of PalCollective.    
