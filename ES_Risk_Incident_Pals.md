@@ -11,7 +11,7 @@ A risk is anything that could jeopardize the safety and well-being of anyone who
 
 We don't want you to worry about the difference between risks and incidents. Bottom line, if something concerns you, report it. 
 
-Some examples of risks and incidents are a security vulnerability in the app, phishing behavior in-app, or observation that the app disconnects under certain circumstances. 
+Some examples of risks and incidents are a security vulnerability in the app, phishing behavior in-app, or observation that the app disconnects under certain circumstances. RECOMMEND BUILDING OUT SOME EXAMPLES HERE  
 
 ## How do I report a risk or incident?
 All risks and incidents can be reported using THIS FORM. 
