@@ -15,7 +15,7 @@
 
 ## Reporting
 [Reporting] 
-.Everyone on staff is authorized to report. 
+.Everyone on staff is authorized to report
 ==== 
 . [Risk Identification Reporting](https://github.com/orgs/PalCollective/projects/4) 
 . [Incident Reporting]() 
