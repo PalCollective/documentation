@@ -14,7 +14,7 @@
 **Transparency and Accountability:** We are commited to transparency and accountability. 
 
 ## Reporting
-[Reporting] 
+[Important] 
 .Everyone on staff is authorized to report
 ==== 
 . [Risk Identification Reporting](https://github.com/orgs/PalCollective/projects/4) 
