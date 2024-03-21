@@ -13,7 +13,8 @@
 
 **Transparency and Accountability:** We are commited to transparency and accountability. 
 
-ES_Risk_Identification.md[Read about our Mission, Vision, Core Values, and Guiding Principles here.]   
+
+**https://github.com/PalCollective/documentation/blob/main/FOUNDATIONS.md[Read about our Mission, Vision, Core Values, and Guiding Principles here.]**   
 
 
 ## Risk and Incident Reporting
