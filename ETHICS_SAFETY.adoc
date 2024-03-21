@@ -1,14 +1,8 @@
-.Spacer
-++++
-// Spacer
-++++
-
-
 # Introduction - Ethics and Safety
 
 ## The role of the ethics and safety team is to prioritize the well-being and safety of Palestinians and Pals, while also ensuring that our actions are in alignment with the core values and principles of PalCollective.    
 
-.Spacer
+
 
 ### We are committed to:   
 **Continuous Improvement:** As our collective grows, we continuously refine and update our processes and approaches to better safeguard the interests of the app and its users.  
@@ -25,7 +19,7 @@
 **https://github.com/PalCollective/documentation/blob/main/FOUNDATIONS.md[Read about our Mission, Vision, Core Values, and Guiding Principles here.]**   
 
 
-[Spacer]
+
 
 
 ## Risk and Incident Reporting
@@ -38,14 +32,14 @@ https://github.com/PalCollective/documentation/blob/main/ES_Risk_Incident_Pals.m
 https://github.com/orgs/PalCollective/projects/4[Risk Identification Reporting]  
 
 
-.Spacer
+
 
 
 ## Process Overview
 image:assets/es_process.png[assets/es_process,width=320,height=630]
 
 
-.Spacer
+
 
 
 ## Process Partners
@@ -60,7 +54,7 @@ Individual contributors: any and every staff member is an important partner for 
 |===
 
 
-.Spacer
+
 
 
 ## Resolving Ethical Conflicts
