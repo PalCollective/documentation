@@ -25,7 +25,7 @@
 **https://github.com/PalCollective/documentation/blob/main/FOUNDATIONS.md[Read about our Mission, Vision, Core Values, and Guiding Principles here.]**   
 
 
-.Spacer
+[Spacer]
 
 
 ## Risk and Incident Reporting
