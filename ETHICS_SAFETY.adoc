@@ -13,11 +13,15 @@
 
 **Transparency and Accountability:** We are commited to transparency and accountability. 
 
+
 ## Risk and Incident Reporting
 Everyone on staff is authorized to report
 
 . [Risk Identification Reporting](https://github.com/orgs/PalCollective/projects/4) 
 . [Incident Reporting]() 
+
+## Process Overview
+image:assets/process.png[assets/process,width=320,height=630]
 
 
 __This document is under construction. Expect it to get a little shinier each time you check back!__
