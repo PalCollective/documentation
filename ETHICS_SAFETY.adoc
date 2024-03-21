@@ -21,7 +21,7 @@ Everyone on staff is authorized to report
 . [Incident Reporting]() 
 
 ## Process Overview
-image:assets/process.png[assets/process,width=320,height=630]
+image:assets/es_process.png[assets/es_process,width=320,height=630]
 
 
 __This document is under construction. Expect it to get a little shinier each time you check back!__
@@ -85,8 +85,6 @@ ____
 
 == How to Use This Document
 
-Process: Please see the Process Overview for a high-level view of the
-process.
 
 Next Steps: Each section includes a Next Steps section. If you know what
 person or team is responsible for that step, please write their name in
@@ -96,10 +94,6 @@ link to the relevant information.
 Your voice: Please add comments or directly edit as needed.
 
 Urgent need: Please add your thoughts to the ethical matrix.
-
-== Process Overview
-
-image:assets/process.png[assets/process,width=320,height=630]
 
 
 
