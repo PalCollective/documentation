@@ -7,6 +7,8 @@ and *ethical values* that may be infringed upon due to an intervention.
 Ethical values should be chosen based on our 
 values and principles. They may be updated as needed.
 
+The ethical matrix *requires input from a diversity of voices, roles, and experience.* 
+
 Each cell in the matrix is filled with *potential harms* to
 the stakeholder based on the values that we have prioritized.
 Stakeholders and values may be added as more voices are involved in the
@@ -37,12 +39,6 @@ and so on).
 
 This matrix also helps *identify the need for subject matter experts*,
 such as those involved in payment security.
-
-*A note about governments (official or unofficial) as a stakeholder. Our
-app is not made for them, and we arguably don’t prioritize their needs.
-However, the government will prioritize their own need, so this exercise
-can help us think about some ways in which governments might feel their interests are 
-infringed upon and move to block the app.
 
 Below is a high level matrix used to evaluate the intervention of PalCollective. This 
 matrix can also be used as a framework for more specific tensions that may arise 
@@ -113,9 +109,13 @@ enforcement, etc. (there is precedence for this)
 |
 |===
 
+*A note about governments (official or unofficial) as a stakeholder. Our
+app is not made for them, and we arguably don’t prioritize their needs.
+However, the government will prioritize their own need, so this exercise
+can help us think about some ways in which governments might feel their interests are 
+infringed upon and move to block the app.
 
-
-==== Input Log:
+Input Log:
 
 [.mark]#Please log the names/roles/expertise of anyone who has
 contributed to the ethical matrix. Notes: civilian is an expertise.
