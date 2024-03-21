@@ -26,7 +26,7 @@ Please read **[Risk Indentification for Staff](https://github.com/PalCollective/
 image:assets/es_process.png[assets/es_process,width=320,height=630]
 
 
-## Partners
+## Process Partners
 Individual contributors: any and every staff member is an important partner for identifying and managing risk.   
 People and Tech team leads: we collaborate closely with team leads to ensure that ethical principles are respected and risks are managed throughout the lifecycle of our app. 
 
