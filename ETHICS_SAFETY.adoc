@@ -1,7 +1,7 @@
 # Introduction - Ethics and Safety
 The role of the ethics and safety team is to prioritize the well-being and safety of Palestinians and Pals, while also ensuring that our actions are in alignment with our ethical principles.
 
-We collaborate with all of the focus areas to identify, assess, manage, and mitigate risks. By necessity, our process is iterative as our collective grows and adapts and learns. We are involved in every phase of the lifecycle.  
+We collaborate with all of the focus areas to identify, assess, manage, and mitigate risks. By necessity, our process is iterative. As our collective grows and adapts and learns, we will need to flexibly update our processes and approaches. We are involved in every phase of the lifecycle so as to best safeguard the interests of our app and its users.    
 
 
 # Table of Contents
