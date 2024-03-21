@@ -39,7 +39,7 @@ Have a question? This might help you get started in the right direction. (Discor
 ## Job Board
 The job board is viewable under the Projects menu, above. Here are a couple quick links.  
 [MVP Human Tasks](https://github.com/orgs/PalCollective/projects/3)  
-[MVP Dev Tasks](https://github.com/orgs/PalCollective/projects/2)
+[MVP Dev Tasks](https://github.com/orgs/PalCollective/projects/2)  
 [Ethics and Safety Tasks](https://github.com/orgs/PalCollective/projects/4)
 
 ## Short Series on GitHub and Markdown  
