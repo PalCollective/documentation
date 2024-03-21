@@ -46,7 +46,7 @@ Individual contributors: any and every staff member is an important partner for 
 |===
 
 
-__This document is under construction. Expect it to get a little shinier each time you check back!__
+## __This document is under construction. Expect it to get a little shinier each time you check back!__
 
 
 
@@ -54,7 +54,7 @@ __This document is under construction. Expect it to get a little shinier each ti
 
 
 
-# Table of Contents
+## Table of Contents
 link:#how-to-use-this-document[[.underline]#How to Use This Document#]
 
 link:#process-overview[[.underline]#Process Overview#]
