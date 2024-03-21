@@ -36,7 +36,7 @@ such as those involved in payment security.
 *A note about governments (official or unofficial) as a stakeholder. Our
 app is not made for them, and we arguably don’t prioritize their needs.
 However, the government will prioritize their own need, so this exercise
-can help us think about some ways in which the government might feel
+can help us think about some ways in which governments might feel their interests are 
 infringed upon and move to block the app.
 
 === High Level Matrix
