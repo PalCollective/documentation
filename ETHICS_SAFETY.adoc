@@ -16,7 +16,9 @@
 
 ## Risk and Incident Reporting
 Everyone on staff is authorized to report.  
+
 https://github.com/orgs/PalCollective/projects/4[Risk Identification Reporting]  
+
 https://github.com/PalCollective/documentation/blob/main/ES_Risk_Identification.md[Risk Indentification for Staff]
 
 ## Process Overview
