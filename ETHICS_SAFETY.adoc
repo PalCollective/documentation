@@ -45,6 +45,13 @@ Individual contributors: any and every staff member is an important partner for 
 | Ethics and Safety | Katie | katiegrillaert
 |===
 
+## Resolving Ethical Conflicts
+The *ethical matrix* is a participatory tool that can frame ethical conflicts for deliberation by a dedicated team. A template is available for use by your team, and you can also request that someone from Ethics and Safety provides training on the matrix or participates in discussions regarding ethical conflicts. 
+
+https://github.com/PalCollective/documentation/blob/main/ES_Ethical_Matrix.md[Ethical Matrix]  
+
+
+
 
 ## __This document is under construction. Expect it to get a little shinier each time you check back!__
 
@@ -151,126 +158,6 @@ image:media/image1.png[media/image1,width=479,height=723]
 
 ==== Define principles 
 
-== Ethical Matrix
-
-If you are having trouble viewing the entire table, please go to Format
-→ Switch to pageless view
-
-=== High Level Matrix
-
-[width="100%",cols="20%,20%,20%,20%,20%",options="header",]
-|===
-| |*Values* | | |
-|*Stakeholder* |*Well-being* |*Safety & Privacy* |*Autonomy* |*Justice*
-
-|Palestinian app users a|
-* Aid is delayed
-* Effort to procure aid not in alignment with amount received
-* Method of receiving aid is risky
-* Abuse from malicious users (in chat for example)
-* Exposing those seeking help to racism, religious proselytizing,
-classism, and more from folks who are “well-intentioned”
-* Violations of privacy, of intentionally or unintentionally exposing
-details of private conversations that would put Gazans at psychological,
-physical or emotional risk
-* Exploitation (of personal shared stories) and/or abuse within the chat
-* Invitation system is inaccessible OR allows in bad actors
-
-a|
-* Identity is exposed to mafia, Israeli actors, or other bad actors
-* Aid is intercepted and/or misdirected
-* Receiving bank account is hacked
-
-a|
-* Personhood not respected throughout the process (infantilized,
-unnecessary bureaucracy, etc)
-
-a|
-* Aid is not distributed in a just/equitable way (based on gender, age,
-etc)
-
-|Mutual aid providing app users a|
-* Negative mental health effects due to the proximity to war (besides
-personal harm, could reduce ability to aid, stop people from interacting
-with app, stop recommending it to their friends)
-* Volunteers are asked to provide services out of scope, too much money
-* Volunteers don’t have training to handle requests (especially wrt
-medical/emergency/abuse needs )
-
-a|
-* Identity is exposed to unfriendly governments or other bad actors
-* Payment details are hacked
-
-| |
-
-|App Development Team a|
-* Negative mental health effects due to the proximity to war (besides
-personal harm, can slow development/deployment)
-
-a|
-* Identity is exposed to unfriendly governments or other bad actors
-
-| |
-
-|Governments* | | a|
-* We acknowledge that the very nature of trying to break barriers in
-providing aid, may be counter to the goals of the current US government,
-and there may be attempts to try to stop this project from law
-enforcement, etc. (there is precedence for this)
-
-|
-|===
-
-The *ethical matrix* helps to identify potential harms. The matrix
-identifies *stakeholders* that interact with or are affected by the app,
-and *ethical values* that may be infringed upon due to their use of, or
-the existence of, the app. Each cell is filled with *potential harms* to
-the stakeholder based on the values that we have prioritized.
-Stakeholders and values may be added as more voices are involved in the
-discussion and as the app continues to develop. It is acceptable for
-some cells to be left blank.
-
-*Potential harms* listed are those that would occur because of
-interaction with the app, not including those that are happening at
-baseline. For example, Palestinians are of course already experiencing
-many negative mental and physical effects due to being victims of war.
-It is not listed here because that is not a potential harm of engaging
-with the app.
-
-Potential harms will be of *differing priority*. Some may need many
-resources and frequent re-assessment, others may be completely
-deprioritized at certain points of the lifecycle. For example, “Aid is
-not distributed in a just/equitable way (based on gender, age, etc)” may
-not be an urgent priority. However, looking further ahead, this may be
-more important as fair access to aid could influence the social makeup
-as the Palestinian society begins to rebuild.
-
-This is a *starting point for further engagement*. For example, verbal
-abuse in the chat may be identified as a realistic harm, and a chatbot
-explored to mitigate this harm. This intervention could be further
-assessed with an AI-focused assessment (does the chatbot perform equally
-well for different languages, does it show bias when filtering comments,
-and so on).
-
-This matrix also helps *identify the need for subject matter experts*,
-such as those involved in payment security.
-
-*A note about governments (official or unofficial) as a stakeholder. Our
-app is not made for them, and we arguably don’t prioritize their needs.
-However, the government will prioritize their own need, so this exercise
-can help us think about some ways in which the government might feel
-infringed upon and move to block the app.
-
-==== Input Log:
-
-[.mark]#Please log the names/roles/expertise of anyone who has
-contributed to the ethical matrix. Notes: civilian is an expertise.
-Reading and deep thought counts as contributing. Log only the
-information the person feels comfortable sharing.#
-
-[arabic]
-. Katie, tech steward and ethicist
-. tyle: graphics, front-end team, research
 
 === Prioritized Harms
 
