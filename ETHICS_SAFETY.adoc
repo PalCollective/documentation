@@ -1,8 +1,7 @@
 > **Note:** This button will be present in several places. Need to update to hosted reporting template.
 
-<a href="https://github.com/orgs/PalCollective/projects/4" class="button">Report Risk</a>
-
-
+:link: https://github.com/orgs/PalCollective/projects/4
+:image-url: https://github.com/orgs/PalCollective/documentation/assets/report.png
 
 
 # Introduction - Ethics and Safety
