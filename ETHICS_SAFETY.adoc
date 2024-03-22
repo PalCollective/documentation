@@ -1,3 +1,7 @@
+> **Note:** This button will be present in several places. Need to update to hosted reporting template.
+
+<https://github.com/orgs/PalCollective/projects/4" class="button">Report Risk</a>
+
 # Introduction - Ethics and Safety
 
 ## The role of the ethics and safety team is to prioritize the well-being and safety of Palestinians and Pals, while also ensuring that our actions are in alignment with the core values and principles of PalCollective.    
@@ -23,13 +27,15 @@
 
 
 ## Risk and Incident Reporting
-Everyone on staff is authorized and encouraged to report.  
+Everyone on staff is authorized and encouraged to report. Pals are encouraged and trained to report. 
 
 https://github.com/PalCollective/documentation/blob/main/ES_Risk_Identification.md[Risk Indentification for Staff]
 
 https://github.com/PalCollective/documentation/blob/main/ES_Risk_Incident_Pals.md[Risk Identification and Incident Reporting for Pals]  
 
-https://github.com/orgs/PalCollective/projects/4[Risk Identification Reporting]  
+https://github.com/orgs/PalCollective/projects/4[Risk Identification Reporting via Task Board]  
+
+https://github.com/orgs/PalCollective/documentation/blob/main/ES_Reporting.md[Reporting Templates]  
 
 
 
