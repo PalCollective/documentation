@@ -39,7 +39,7 @@ Everyone on staff is authorized and encouraged to report. Pals are encouraged an
 
 [Risk Identification Reporting via Task Board](https://github.com/orgs/PalCollective/projects/4)
 
-[Reporting Templates](https://github.com/orgs/PalCollective/documentation/blob/main/ES_Reporting.md)
+[Reporting Templates](https://github.com/PalCollective/documentation/blob/main/ES_Reporting.md)
 
 ## Process Overview
 
