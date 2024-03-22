@@ -1,16 +1,16 @@
 # Reporting
 Here you will find the reporting templates for Ethics and Safety. 
 
-[Risk Identification Report](#PalCollective-Risk-Identification-Report)
+[Risk Identification Report for Staff](#PalCollective-Risk-Identification-Report)
 [Risk-and-Incident-Identification-Report for Volunteers](#PalCollective-Risk-and-Incident-Identification-Report)
 
 
 
 
 
-## **PalCollective Risk Identification Report**
+## **PalCollective Risk Identification and Incident Report for Staff**
 
-**Subject:** [Short description of risk, ex. HubSpot vulnerability] 
+**Subject:** [Short description of risk or incident, ex. HubSpot vulnerability] 
 **Reported by:** [Name/Anonymous]  
 **Team:** [Team/Dept]  
 **Date:** [Date of Report]
@@ -26,11 +26,11 @@ Here you will find the reporting templates for Ethics and Safety.
 <br>
 
 
-**3. Proposed Solutions:** If possible, provide suggestions or recommendations for addressing the identified risk. This could include preventive measures, corrective actions, or mitigation strategies.
+**3. Proposed Solutions:** If possible, provide suggestions or recommendations for addressing the identified risk or incident. This could include preventive measures, corrective actions, or mitigation strategies.
 <br>
 
 
-**4. Additional Comments or Information:** Include any additional comments or supporting evidence that may help in understanding or addressing the identified risk.
+**4. Additional Comments or Information:** Include any additional comments or supporting evidence that may help in understanding or addressing the identified risk or incident.
 <br>
 
 ----------
@@ -42,7 +42,7 @@ This report is confidential and should be treated as such by the recipient. If t
 Please submit this completed report to the Ethics and Safety department for review and consideration. [Can we have the Subject line populate the task board automatically?]
 
 
-## **PalCollective Risk and Incident Identification Report**
+## **PalCollective Risk and Incident Identification Report for Volunteers**
 
 **Subject:** [Short description of risk/incident, ex. Personal details requested in chat] 
 **Reported by:** [Name/Anonymous]  
