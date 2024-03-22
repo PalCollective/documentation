@@ -1,5 +1,6 @@
 
 > **Note:**  This button will be present in several places. Need to update to hosted reporting template.
+> [Report a Risk Here]([https://example.com](https://github.com/orgs/PalCollective/projects/4)) {: .btn .btn-red }
 
 # Introduction - Ethics and Safety
 
@@ -51,29 +52,11 @@ Everyone on staff is authorized and encouraged to report. Pals are encouraged an
 
 Individual contributors: any and every staff member is an important partner for identifying and managing risk. We also collaborate closely with team leads to ensure that ethical principles are respected and risks are managed throughout the lifecycle of our app.
 
-Dept
-
-Person
-
-Discord Handle
-
-Tech
-
-Orwa
-
-orwa84
-
-People
-
-Janine
-
-janine
-
-Ethics and Safety
-
-Katie
-
-katiegrillaert
+| Dept                | Person | Discord Handle | 
+|---------------------|--------|----------------|
+| Tech                | Orwa   | orwa84         |
+| People              | Janine | janine         |
+| Ethics and Safety   | Katie  | katiegrillaert |
 
 ## Risk Management Framework
 
