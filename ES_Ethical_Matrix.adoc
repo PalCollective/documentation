@@ -127,4 +127,5 @@ information the person feels comfortable sharing.#
 [arabic]
 . Katie, tech steward and ethicist
 . tyle: graphics, front-end team, research
+. Palestinian opinions researched by maisj
 
