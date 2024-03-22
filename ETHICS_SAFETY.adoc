@@ -1,7 +1,7 @@
 > **Note:** This button will be present in several places. Need to update to hosted reporting template.
 
 :link: https://github.com/orgs/PalCollective/projects/4
-:image-url: https://github.com/orgs/PalCollective/documentation/assets/report.png
+:image-url: https://github.com/PalCollective/documentation/blob/main/assets/report.png
 
 
 # Introduction - Ethics and Safety
