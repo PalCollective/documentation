@@ -28,9 +28,11 @@ If you feel that someone is in immediate danger, contact METHOD HERE.
 
 ## What is the process after I report a risk or incident?   
 We expect to review a report within 24 hours. If needed, we will contact you for more information.   
-Both risks and incidents will be triaged by staff, and added to our workflow based on priority. They will then be assessed by a team of staff members, and a management or mitigation plan put in place.  If you would like to check the status of your report, CONTACT?? CHECK SOMEHOW?  
+Both risks and incidents will be triaged by staff, and added to our workflow based on priority. They will then be assessed by a team of staff members, and a management or mitigation plan put in place.  
+
+> **Note:**  If you would like to check the status of your report, CONTACT/CHECK SOMEHOW? Depends on our management system but this would be an important part of transparency and accountability.   
 
 ## Will I be penalized for reporting?  
-Never. Integrity is one of our core values. We honor and appreciate your viewpoints and your experiences. You will not experience any penalty or other negative outcome for reporting.   
+Never. Integrity is one of our core values. We honor and appreciate your viewpoints and your experiences. You will not experience any penalty or other negative outcome for reporting. If you have strong concerns, you can report anonymously. 
 
 
