@@ -45,9 +45,12 @@ matrix can also be used as a framework for more specific tensions that may arise
 during risk mitigation, for example. 
 
 === High Level PalCollective Matrix 
+
+**Overview**
+PalCollective is considering implementing an app or other technological solution to connect Gazans with supporters around
+the world in order to faciliate mutual aid. 
 __This matrix was constructed 9-Mar-2024 and may no longer be up to date as the collective
-has undergone substantial changes in that time. It was used to frame ethics of implementing an app or other software 
-to provide aid.__
+has undergone substantial changes in that time.__
 
 [width="100%",cols="20%,20%,20%,20%,20%",options="header",]
 |===
