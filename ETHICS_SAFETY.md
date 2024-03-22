@@ -78,7 +78,7 @@ _Coming soon…​_
 
 **Request collaboration**  At any time, you can request that someone from Ethics and Safety joins your team to discuss an ethical conflict.
 
-**Ethical Matrix**  The ethical matrix is a participatory tool that can frame ethical conflicts for deliberation by a dedicated team. You can use the template, or request training or participation from someone on Ethics and Safety.  [More about the ethical matrix](https://github.com/PalCollective/documentation/blob/main/ES_Ethical_Matrix.md)
+**Ethical Matrix**  The ethical matrix is a participatory tool that can frame ethical conflicts for deliberation by a dedicated team. You can use the template, or request training or participation from someone on Ethics and Safety.  [More about the ethical matrix](https://github.com/PalCollective/documentation/blob/main/ES_Ethical_Matrix.adoc)
 
 ## Ethics and Safety Tasks
 
