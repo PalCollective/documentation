@@ -46,7 +46,7 @@ during risk mitigation, for example.
 
 === High Level PalCollective Matrix 
 
-**Overview**
+**Overview**  
 PalCollective is considering implementing an app or other technological solution to connect Gazans with supporters around
 the world in order to faciliate mutual aid. 
 __This matrix was constructed 9-Mar-2024 and may no longer be up to date as the collective
