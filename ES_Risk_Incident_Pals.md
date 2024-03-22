@@ -16,7 +16,7 @@ RECOMMEND BUILDING OUT SOME EXAMPLES HERE
 BRANDING AND DESIGNERS: nice images to go with examples
 
 ## How do I report a risk or incident?  
-All risks and incidents can be reported using THIS FORM.   
+All risks and incidents can be reported using THIS FORM. TEMPLATE LOCATED ![HERE](ES_Reporting.md)  
 If you feel that the risk or incident is urgent, please also immediately send a message to PERSON HERE.  
 If you feel that someone is in immediate danger, contact METHOD HERE.   
 BRANDING AND DESIGNERS: a very visible REPORT button?  
