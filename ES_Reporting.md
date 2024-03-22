@@ -1,7 +1,7 @@
 # Reporting
 Here you will find the reporting templates for Ethics and Safety. 
 
-[Risk Identification Report for Staff](#PalCollective-Risk-Identification-Report)
+[Risk Identification Report for Staff](#PalCollective-Risk-Identification-Report)  
 [Risk-and-Incident-Identification-Report for Volunteers](#PalCollective-Risk-and-Incident-Identification-Report)
 
 
