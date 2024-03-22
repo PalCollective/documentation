@@ -1,8 +1,7 @@
 
 > **Note:**  This button will be present in several places. Need to update to hosted reporting template.
 
-[![Report a Risk](https://img.shields.io/badge/Button-Click%20Here-red)]([https://example.com](https://github.com/orgs/PalCollective/projects/4))
-
+[![Report a Risk](https://img.shields.io/badge/Button-Click%20Here-red)](https://github.com/orgs/PalCollective/projects/4)
 
 # Introduction - Ethics and Safety
 
