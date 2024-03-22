@@ -11,15 +11,16 @@ A risk is anything that could jeopardize the safety and well-being of anyone who
 
 We don't want you to worry about the difference between risks and incidents. Bottom line, if something concerns you, report it. 
 
-Some examples of risks and incidents are a security vulnerability in the app, phishing behavior in-app, or observation that the app disconnects under certain circumstances. 
-RECOMMEND BUILDING OUT SOME EXAMPLES HERE 
-BRANDING AND DESIGNERS: nice images to go with examples
+Some examples of risks and incidents are a security vulnerability in the app, phishing behavior in-app, or observation that the app disconnects under certain circumstances.  
+
+> **Note:** RECOMMEND BUILDING OUT SOME EXAMPLES HERE SPECIFIC TO PALS. BRANDING AND DESIGNERS: nice images to go with examples
 
 ## How do I report a risk or incident?  
-All risks and incidents can be reported using THIS FORM. TEMPLATE LOCATED ![HERE](ES_Reporting.md)  
+All risks and incidents can be reported using THIS FORM. > **Note:**  TEMPLATE LOCATED [HERE](ES_Reporting.md). Need to decide where to host it.  
 If you feel that the risk or incident is urgent, please also immediately send a message to PERSON HERE.  
 If you feel that someone is in immediate danger, contact METHOD HERE.   
-BRANDING AND DESIGNERS: a very visible REPORT button?  
+
+> **Note:** BRANDING AND DESIGNERS: a very visible REPORT button?  
 
 ## What is the process after I report a risk or incident?   
 We expect to review a report within 24 hours. If needed, we will contact you for more information.   
