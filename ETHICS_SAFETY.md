@@ -5,15 +5,15 @@
 
 # Introduction - Ethics and Safety
 
-[](https://github.com/PalCollective/documentation/blob/main/ETHICS_SAFETY.adoc#introduction---ethics-and-safety)
+[](https://github.com/PalCollective/documentation/blob/main/ETHICS_SAFETY.md#introduction---ethics-and-safety)
 
 ## The role of the ethics and safety team is to prioritize the well-being and safety of Palestinians and Pals, while also ensuring that our actions are in alignment with the core values and principles of PalCollective.
 
-[](https://github.com/PalCollective/documentation/blob/main/ETHICS_SAFETY.adoc#the-role-of-the-ethics-and-safety-team-is-to-prioritize-the-well-being-and-safety-of-palestinians-and-pals-while-also-ensuring-that-our-actions-are-in-alignment-with-the-core-values-and-principles-of-palcollective)
+[](https://github.com/PalCollective/documentation/blob/main/ETHICS_SAFETY.md#the-role-of-the-ethics-and-safety-team-is-to-prioritize-the-well-being-and-safety-of-palestinians-and-pals-while-also-ensuring-that-our-actions-are-in-alignment-with-the-core-values-and-principles-of-palcollective)
 
 ### We are committed to:
 
-[](https://github.com/PalCollective/documentation/blob/main/ETHICS_SAFETY.adoc#we-are-committed-to)
+[](https://github.com/PalCollective/documentation/blob/main/ETHICS_SAFETY.md#we-are-committed-to)
 
 **Continuous Improvement:**  As our collective grows, we continuously refine and update our processes and approaches to better safeguard the interests of the app and its users.
 
@@ -29,7 +29,7 @@
 
 ## Risk and Incident Reporting
 
-[](https://github.com/PalCollective/documentation/blob/main/ETHICS_SAFETY.adoc#risk-and-incident-reporting)
+[](https://github.com/PalCollective/documentation/blob/main/ETHICS_SAFETY.mdc#risk-and-incident-reporting)
 
 Everyone on staff is authorized and encouraged to report. Pals are encouraged and trained to report.
 
@@ -43,13 +43,14 @@ Everyone on staff is authorized and encouraged to report. Pals are encouraged an
 
 ## Process Overview
 
-[](https://github.com/PalCollective/documentation/blob/main/ETHICS_SAFETY.adoc#process-overview)
+[](https://github.com/PalCollective/documentation/blob/main/ETHICS_SAFETY.md#process-overview)
 
-[![assets/es_process](https://github.com/PalCollective/documentation/raw/main/assets/es_process.png)](https://github.com/PalCollective/documentation/blob/main/assets/es_process.png)
+[<img src="https://github.com/PalCollective/documentation/raw/main/assets/es_process.png" width="300">](https://github.com/PalCollective/documentation/blob/main/assets/es_process.png)
+
 
 ## Process Partners
 
-[](https://github.com/PalCollective/documentation/blob/main/ETHICS_SAFETY.adoc#process-partners)
+[](https://github.com/PalCollective/documentation/blob/main/ETHICS_SAFETY.md#process-partners)
 
 Individual contributors: any and every staff member is an important partner for identifying and managing risk. We also collaborate closely with team leads to ensure that ethical principles are respected and risks are managed throughout the lifecycle of our app.
 
@@ -61,26 +62,26 @@ Individual contributors: any and every staff member is an important partner for 
 
 ## Risk Management Framework
 
-[](https://github.com/PalCollective/documentation/blob/main/ETHICS_SAFETY.adoc#risk-management-framework)
+[](https://github.com/PalCollective/documentation/blob/main/ETHICS_SAFETY.md#risk-management-framework)
 
 _Coming soon…​_
 
 ## Roles and Responsibilities
 
-[](https://github.com/PalCollective/documentation/blob/main/ETHICS_SAFETY.adoc#roles-and-responsibilities)
+[](https://github.com/PalCollective/documentation/blob/main/ETHICS_SAFETY.md#roles-and-responsibilities)
 
 _Coming soon…​_
 
 ## Resolving Ethical Conflicts
 
-[](https://github.com/PalCollective/documentation/blob/main/ETHICS_SAFETY.adoc#resolving-ethical-conflicts)
+[](https://github.com/PalCollective/documentation/blob/main/ETHICS_SAFETY.md#resolving-ethical-conflicts)
 
 **Request collaboration**  At any time, you can request that someone from Ethics and Safety joins your team to discuss an ethical conflict.
 
-**Ethical Matrix**  The ethical matrix is a participatory tool that can frame ethical conflicts for deliberation by a dedicated team. You can use the template, or request training or participation from someone on Ethics and Safety.  [More about the ethical matrix](https://github.com/PalCollective/documentation/blob/main/ES_Ethical_Matrix.adoc)
+**Ethical Matrix**  The ethical matrix is a participatory tool that can frame ethical conflicts for deliberation by a dedicated team. You can use the template, or request training or participation from someone on Ethics and Safety.  [More about the ethical matrix](https://github.com/PalCollective/documentation/blob/main/ES_Ethical_Matrix.md)
 
 ## Ethics and Safety Tasks
 
-[](https://github.com/PalCollective/documentation/blob/main/ETHICS_SAFETY.adoc#ethics-and-safety-tasks)
+[](https://github.com/PalCollective/documentation/blob/main/ETHICS_SAFETY.md#ethics-and-safety-tasks)
 
 Wondering what we are working on?  [Visit our task board.](https://github.com/orgs/PalCollective/projects/5/views/1)
