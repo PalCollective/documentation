@@ -1,5 +1,5 @@
 
-> **Note:**  This button will be present in several places. Need to update to hosted reporting template.
+> **Note:**  This button will be present in several places. Need to update to hosted reporting template. Need custom branded button.
 
 [<img src="https://github.com/PalCollective/documentation/blob/main/assets/report.png" width="100">](https://github.com/orgs/PalCollective/projects/4)
 
