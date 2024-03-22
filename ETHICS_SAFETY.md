@@ -1,5 +1,6 @@
 
 > **Note:**  This button will be present in several places. Need to update to hosted reporting template.
+> 
 > [Report a Risk Here]([https://example.com](https://github.com/orgs/PalCollective/projects/4)) {: .btn .btn-red }
 
 # Introduction - Ethics and Safety
