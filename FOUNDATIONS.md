@@ -2,6 +2,8 @@
 "Our mission is to empower the people of Gaza by providing aid and facilitating connections. We stand in solidarity with the Palestinian community, believing in their inherent dignity and right to a good life. Through monetary support and connections with resources and materials, we enable individuals and families to care for themselves amidst their catastrophic circumstances. By amplifying their voices and empowering autonomy and resilience, we strive to contribute to the preservation of their rights and dignity."
 
 # Our Vision
+"Global solidarity with Palestine: uniting in strength and peace."
+
 "We envision a future where the people of Gaza emerge from the devastation of war to rebuild their communities and way of life with strength and dignity. Our commitment extends beyond immediate aid efforts, aiming to provide ongoing support as they heal and rebuild. We aspire to foster global solidarity and understanding, bridging hearts and minds between Palestinians and their supporters worldwide."
 
 # Our Core Values
