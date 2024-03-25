@@ -11,30 +11,12 @@ This repository contains different types of documentation contributed by differe
 [Branding](BRANDING.md)  
 [Ethics and Safety](ETHICS_SAFETY.adoc)     
 [ER Diagram](ER%20DIGRAM.md)  
-[Foundations](FOUNDATIONS.md) - Our mission, vision, core values, and principles.  
+[Foundations](FOUNDATIONS.md) - Our Mission, Vision, Core Values, Guiding Principles, and Cultural Pillars.  
 [Introduction](INTRODUCTION.md)  
 [Requirements](REQUIREMENTS.md)  
 [Strategy](STRATEGY.md)  
 [User Stories](USER_STORIES.md)  
 
-
-
-## Mini Directory
-Have a question? This might help you get started in the right direction. (Discord handle in parentheses.)  _This is not a complete list of the team._
-
-### People Team
-**Pal Training** - Janine (janinebensouda)  
-**Admin Organizing Information** - Jo (jokfriend) and Farhanah (farhanahali)  
-**Partner Relationships** - Farhanah (farhanahali)  
-**People Organizer** - Farhanah (farhanahali)  
-**Marketing** - Farhanah (farhanahali) and Tyle (nobinarie.)  
-
-### Tech Team
-**Concept Bottom Up** - Orwa (orwa84) and Elias (eliasmeana)  
-**Concept Top Down** - Janine (janinebensouda) and Tyle (nobinarie.) and Jo (jokfriend)   
-**Front End** -   
-**Back End** - Elias and Lucas (fresskoma)  
-**Ethics and Safety** - Katie (katiegrillaert)  
 
 ## Job Board
 The job board is viewable under the Projects menu, above. Here are a couple quick links.  
