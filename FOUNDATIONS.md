@@ -19,7 +19,7 @@
 **Integrity:** Acting with honesty, transparency, and accountability in all our endeavors.  
 
 
-# Our Principles 
+# Our Guiding Principles 
 **Diversity and Inclusion**: Decisions are informed by a wide range of voices, perspectives, and experiences, reflecting the diversity of the community. Palestinian input is essential in all decision-making processes, ensuring that decisions are responsive to local needs.    
   
  **Cultural Sensitivity**: We approach community engagement with humility and cultural sensitivity, acknowledging the unique cultural context and experiences of the community in Gaza. Efforts are made to build trust and foster respectful relationships based on mutual understanding and collaboration.
