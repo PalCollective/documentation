@@ -11,8 +11,6 @@ This repository contains different types of documentation contributed by differe
 [Branding](BRANDING.md)  
 [Ethics and Safety](ETHICS_SAFETY.adoc)     
 [Foundations](FOUNDATIONS.md) - Our Mission, Vision, Core Values, Guiding Principles, and Cultural Pillars.  
-[Introduction](INTRODUCTION.md)  
-[Requirements](REQUIREMENTS.md)  
 [User Stories](USER_STORIES.md)  
 
 
