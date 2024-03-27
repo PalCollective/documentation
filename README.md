@@ -9,7 +9,7 @@ This repository contains different types of documentation contributed by differe
 
 ## Core Repo Files
 [Branding](BRANDING.md)  
-[Ethics and Safety](ETHICS_SAFETY.adoc)     
+[Ethics and Safety](ETHICS_SAFETY.md)     
 [Foundations](FOUNDATIONS.md) - Our Mission, Vision, Core Values, Guiding Principles, and Cultural Pillars.  
 [User Stories](USER_STORIES.md)  
 
