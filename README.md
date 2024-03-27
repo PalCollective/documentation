@@ -27,4 +27,5 @@ The job board is viewable under the Projects menu, above. Here are a couple quic
 
 [Video 3: Upload Files and Link Them](https://www.loom.com/share/376b4e49a9f448528d355654e2797d2e?sid=205d1cfe-9d81-41dd-9d78-9a439a9aa63d)  
 
-
+## Short Video on Using Odoo
+[Using Odoo for the first time](https://www.loom.com/share/f1c49cb629dd4478ab56aedfba9511b7?sid=2d824815-9476-4287-8220-76872afb5421)  
