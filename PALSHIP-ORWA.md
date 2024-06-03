@@ -15,7 +15,7 @@
 1. It is a mistake to create a campaign for someone you never met and was not met by anyone you are in touch with, as this person can be outside of Gaza or may not be amongst the neediest.
 1. It is a mistake to try to cater to all the needs of one family through a camaign, because this aggregates their short term, mid term and long term needs together, making it hard to proritise for the donors and creates a hierarchy of privilage amongst the Gazans, which further degrades their unity and solidarity.
 
-## Support that pals need
+## Wellness support to pals
 
 1. Personal donation tracking and financial advisory, a second opinion on how much to donate and whether someone is donating while emotionally affected
 1. Boundaries check, time boundaries are major example
@@ -23,7 +23,7 @@
 
 A concept of a pal assigned therapist with regular checks might not be a bad idea. A team can be provided.
 
-## Onboarding order
+## Onboarding order of pals
 
 1. Free non-collective pals: people already doing palship by talking to families in Gaza
 1. Spontaneous pals: people whose participating in cases introduced them into palship
